@@ -1,0 +1,9 @@
+.conteiner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    .Animal{
+        width:45% ;
+        border-radius: 10px;
+    }
